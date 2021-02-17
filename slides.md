@@ -22,6 +22,8 @@ micah.saxton@tufts.edu
 * Browse titles and abstracts
 
 ### Evaluating an Academic Journal
+What makes a journal credible?
+
 * Does the journal cover topics of interest to you?
 * Is the journal peer reviewed?
 * Who publishes the journal?
